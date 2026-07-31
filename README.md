@@ -1,4 +1,4 @@
-<h2 align="left">hello there! my name's dawu (he/him)</h2>
+<h2 align="left">hello there! my name's dawu (she/they)</h2>
 
 ###
 
